@@ -6,7 +6,7 @@ The purpose is to see if junior-level interview candidates can develop software.
 
 ### Challenge Criteria
 1. Short challenges - 10-30 minutes.
-2. End result is code.
+2. End result is code or a discussion of the candidate's knowledge of a development process.
 3. Challenges are done in an environment with the tools they will have on their job (computer, google, etc.)
 
 # Challenges
