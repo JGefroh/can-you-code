@@ -17,3 +17,6 @@ Extra points if they create tests and handle edge cases.
 
 2. [The Number Game](https://gist.github.com/JGefroh/111fc6ca61db239ddd54)  
 The challenge is to refactor this code and make it cleaner and better.
+
+3. [Build Script Understanding](https://gist.github.com/JGefroh/3cbfd2f6058c14f8350d)  
+The challenge is to read and explain what each step of the build script is doing and why it is being performed. This tests candidate's ability to research and provides a glimpse of their level of understanding of the parts of a web application/web development process.
