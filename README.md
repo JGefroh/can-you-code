@@ -20,3 +20,13 @@ The challenge is to refactor this code and make it cleaner and better.
 
 3. [Build Script Understanding](https://gist.github.com/JGefroh/3cbfd2f6058c14f8350d)  
 The challenge is to read and explain what each step of the build script is doing and why it is being performed. This tests candidate's ability to research and provides a glimpse of their level of understanding of the parts of a web application/web development process.
+
+
+# Questions
+1. A teammate is consistently producing poor quality code that ends up having to be rewritten. What do you do? Why?
+2. You're working on a mission-critical legacy software project with a staggering amount of technical debt and see a great new technology to add. What do you do?
+3. A new member joins your team. They are incredibly skilled and productive, but are unanimously disliked by other members of the team due to their arrogant, domineering personality. What do you do as a peer? What would you do if you were a manager?
+4. A teammate is always making technology and development choices that are outdated, inefficient, or otherwise problematic. You know of better ways and technologies. What do you do to ensure the project succeeds?
+5. You're starting a brand new, greenfield project and are given complete control of technologies and processes. You have the choice of using these new technologies, or continuing to use the old ways. What do you do? Explain your reasoning.
+6. There is an important deadline tomorrow for a massive contract. Your feature can be finished today if you take development shortcuts. Your feature will be delayed if you do it in a quality manner. What do you do? Why?
+7. A brand new intern at the company randomly reviews your code one day and creates a three page document detailing everything they believe is wrong with your code. What do you do?
