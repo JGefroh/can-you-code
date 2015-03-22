@@ -7,12 +7,13 @@ The purpose is to see if junior-level interview candidates can develop software.
 ### Challenge Criteria
 1. Short challenges - 10-30 minutes.
 2. End result is code.
+3. Challenges are done in an environment with the tools they will have on their job (computer, google, etc.)
 
 # Challenges
-1. Create an active directory search base parser.  
-The challenge is to create a method that takes an email address and creates a naive search base for an AD login.  
-For example, `joseph.gefroh@gmail.com` would output `DC=gmail,DC=com`. `example@subdomain.domain.com` would output `DC=subdomain,DC=domain,DC=com`.  
-Extra points if they create tests.
+1. [Active Directory Search Base Creator](https://gist.github.com/JGefroh/04872f8648b7712051b2)  
+The challenge is to create a class that takes an email address and creates a naive search base for an AD login.  
+This has the side effect of testing whether the candidate can do some minor research on their own.
+Extra points if they create tests and handle edge cases.
 
 2. [The Number Game](https://gist.github.com/JGefroh/111fc6ca61db239ddd54)  
 The challenge is to refactor this code and make it cleaner and better.
